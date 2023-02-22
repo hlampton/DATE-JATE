@@ -1,5 +1,7 @@
 # DATE-JATE
 
+![image](https://user-images.githubusercontent.com/112996304/220789561-eacbff8c-4626-4453-8ebe-038d15475b7d.png)
+
  ## User Story
 ```text
 AS A developer
@@ -34,4 +36,7 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
-![image](https://user-images.githubusercontent.com/112996304/220789561-eacbff8c-4626-4453-8ebe-038d15475b7d.png)
+### Features and Functionalities
+```text
+The purpose of this application is to enable users to generate notes or code snippets with or without an internet connection, ensuring that they can access them later with reliability. The application incorporates the characteristics and capabilities specified in the Assignment's README.
+```
