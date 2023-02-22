@@ -38,5 +38,10 @@ THEN I should have proper build scripts for a webpack application
 ```
 ### Features and Functionalities
 ```text
-The purpose of this application is to enable users<br> to generate notes or code snippets with or without an internet connection,<br> ensuring that they can access them later with reliability.<br> The application incorporates the characteristics and capabilities specified in the Assignment's README.
+The purpose of this application is to enable users to generate notes or code snippets with or without an internet connection, ensuring that they can access them later with reliability. The application incorporates the characteristics and capabilities specified in the Assignment's README.
 ```
+## Tests
+  During development, the application is tested using `localhost`.
+  
+ ## Author
+Hunter L
